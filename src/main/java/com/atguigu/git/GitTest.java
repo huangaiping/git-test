@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("887");
         System.out.println("push test");
         System.out.println("88888888");
+        System.out.println("77777777");
     }
 }
 
